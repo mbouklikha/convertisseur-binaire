@@ -1,4 +1,4 @@
-Ce projet est une application Python avec Tkinter permettant de convertir un nombre entre binaire, base 10 et base 16. 
+Ce projet est une application Python avec Tkinter permettant de convertir un nombre entre binaire, base 10 et base 16 
 Il offre une interface graphique simple pour effectuer ces conversions.
 
 ✅ Conversion d’un nombre binaire en base 10 et base 16
